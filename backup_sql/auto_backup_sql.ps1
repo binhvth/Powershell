@@ -34,7 +34,7 @@ Get-Content $dataFile | ForEach-Object {
         Copy-Item -Path $filePath -Destination $netPath -Force
 
         # Xoá file backup local
-        Remove-Item -Path $filePath -Force
+        # Remove-Item -Path $filePath -Force
 
         Write-Host "Hoàn tất cho $databaseName"
     }
