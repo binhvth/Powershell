@@ -1,5 +1,5 @@
 ﻿# Cấu hình
-$folderPath = "E:\backupwins\SQL"
+$folderPath = "E:\..."
 $daysOld = 3
 
 # Tính ngày giới hạn
