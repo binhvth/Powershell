@@ -1,4 +1,5 @@
 ﻿# Cấu hình
+
 $folderPath = "E:\..."
 $daysOld = 3
 
